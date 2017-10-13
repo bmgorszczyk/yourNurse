@@ -1,0 +1,202 @@
+{
+    "2017": {
+        "1": {
+            "workingDays": 21,
+            "freeDays": 10
+        },
+        "2": {
+            "workingDays": 20,
+            "freeDays": 8
+        },
+        "3": {
+            "workingDays": 23,
+            "freeDays": 8
+        },
+        "4": {
+            "workingDays": 19,
+            "freeDays": 11
+        },
+        "5": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "6": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "7": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "8": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "9": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "10": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "11": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "12": {
+            "workingDays": 19,
+            "freeDays": 12
+        }
+    },
+    "2018": {
+        "1": {
+            "workingDays": 21,
+            "freeDays": 10
+        },
+        "2": {
+            "workingDays": 20,
+            "freeDays": 8
+        },
+        "3": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "4": {
+            "workingDays": 20,
+            "freeDays": 10
+        },
+        "5": {
+            "workingDays": 20,
+            "freeDays": 11
+        },
+        "6": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "7": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "8": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "9": {
+            "workingDays": 20,
+            "freeDays": 10
+        },
+        "10": {
+            "workingDays": 23,
+            "freeDays": 8
+        },
+        "11": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "12": {
+            "workingDays": 19,
+            "freeDays": 12
+        }
+    },
+    "2019": {
+        "1": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "2": {
+            "workingDays": 20,
+            "freeDays": 8
+        },
+        "3": {
+            "workingDays": 21,
+            "freeDays": 10
+        },
+        "4": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "5": {
+            "workingDays": 21,
+            "freeDays": 10
+        },
+        "6": {
+            "workingDays": 19,
+            "freeDays": 11
+        },
+        "7": {
+            "workingDays": 23,
+            "freeDays": 8
+        },
+        "8": {
+            "workingDays": 21,
+            "freeDays": 10
+        },
+        "9": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "10": {
+            "workingDays": 23,
+            "freeDays": 8
+        },
+        "11": {
+            "workingDays": 19,
+            "freeDays": 11
+        },
+        "12": {
+            "workingDays": 20,
+            "freeDays": 11
+        }
+    },
+    "2020": {
+        "1": {
+            "workingDays": 21,
+            "freeDays": 10
+        },
+        "2": {
+            "workingDays": 20,
+            "freeDays": 9
+        },
+        "3": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "4": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "5": {
+            "workingDays": 20,
+            "freeDays": 11
+        },
+        "6": {
+            "workingDays": 21,
+            "freeDays": 9
+        },
+        "7": {
+            "workingDays": 23,
+            "freeDays": 8
+        },
+        "8": {
+            "workingDays": 21,
+            "freeDays": 10
+        },
+        "9": {
+            "workingDays": 22,
+            "freeDays": 8
+        },
+        "10": {
+            "workingDays": 22,
+            "freeDays": 9
+        },
+        "11": {
+            "workingDays": 20,
+            "freeDays": 10
+        },
+        "12": {
+            "workingDays": 21,
+            "freeDays": 10
+        }
+    }
+}

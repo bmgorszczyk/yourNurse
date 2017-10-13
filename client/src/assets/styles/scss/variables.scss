@@ -1,0 +1,25 @@
+$nurse_red: #fd5f5f;
+$nurse_dark_blue: #354052;
+$nurse_black: #333;
+$dark_gray: #b6b6b7;
+$medium_gray: #d6d6d6;
+$light_gray: #F0F0F0;
+$extra_light_gray: #F8F9FA;
+$nurse_sea: #42c4ca;
+$top_border: #e8e8e8;
+$top_shadow: #d4d4d4;
+$sidebar_fc: #d9fbfd;
+$darker_sea: #1bb2b9;
+$roboto_font: 'Roboto', sans-serif;
+
+//FONTS
+
+$nurse_font: 'Raleway', sans-serif;
+
+.vertical-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100vw;
+  min-height: 100vh;
+}
